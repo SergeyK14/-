@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ввод двух чисел и нахождение макисмального из них/1.0.0": {
+        "runtime": {
+          "Ввод двух чисел и нахождение макисмального из них.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ввод двух чисел и нахождение макисмального из них/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
