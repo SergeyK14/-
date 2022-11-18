@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Определение и вывод положительных чисел до N, введенного пользователем/1.0.0": {
+        "runtime": {
+          "Определение и вывод положительных чисел до N, введенного пользователем.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Определение и вывод положительных чисел до N, введенного пользователем/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
